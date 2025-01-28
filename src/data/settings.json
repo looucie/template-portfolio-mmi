@@ -4,7 +4,7 @@
     "firstname": "Lucie",
     "portrait" : "avatar.jpg",
     "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis ante in orci auctor pharetra. Duis interdum erat semper nunc faucibus maximus. Proin dapibus auctor sollicitudin. Nulla mattis volutpat enim, ac ultrices odio dignissim id. Morbi nisl nisi, consequat ut finibus non, convallis interdum velit. Maecenas congue diam dolor, non elementum ipsum tincidunt vel. Sed dui ipsum, finibus rhoncus sollicitudin sit amet, varius non nulla. Duis vestibulum facilisis ligula, vel bibendum mauris aliquam in. Etiam urna ligula, pharetra a dictum et, blandit nec leo. Donec consequat tincidunt nisi at consectetur.",
+    "biography": "Enchanté ! je m’appelle Lucie, j’ai 18ans. Je suis originaire d’une petite ville appelée Ploërmel dans le Morbihan dans laquelle j’y ai fait mes études. Ayant obtenu un BAC STI2D, je suis maintenant en BUT Métier du Multimédia et de l’internet à Lannion. Passionnée de cinéma, j'ai opté pour cette formation car elle contient de l'audio-visuel  mais également plusieurs de mes intérêts comme l’art et le développement web,  une compétence que j'ai pu approfondir l'année précédente. Ce BUT me paraissait également très intéressant pour découvrir le graphisme et la communication. Grâce à cela, j’espère me trouver un métier qui me plaît dans un domaine artistique et technologique, dans lequel ma personnalité calme et introvertie pourrait s’épanouir.",
     "cv" : "CV.pdf",
     "trainings": [
         {
@@ -15,23 +15,23 @@
         },
         {
             "name" : "Bac STI2D",
-            "school" : "Lycée LaMennais Ploërmel( 56)",
+            "school" : "Lycée LaMennais Ploërmel (56)",
             "start" : 2021
         }
     ],
     "interests": [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        "Je suis une fille qui aime vivre et découvrir la musique, j’aime des genres tel que la pop ou le rnb, ma passion pour la musique m'a amener à aller au festival lollapalooza en 2023 pour voir mes artistes préférés et m’en exposer à d’autres.",
+        "Tout autant que la musique, le cinéma me passionne, j’aime ressentir les émotions à travers les personnages et les images.",
+        "En exposant mon style vestimentaire, je montre également mon intérêt pour la mode, où je m'inspire avec des créateurs tel que Versace, Channel, à l'aide d'internet ou de mon propre esprit."
     ],
     "projects": [
         {
-            "title": "Project 1 : Lorem ipsum dolor sit amet consecitur",
-            "context": "Lorem ipsum dolor sit amet consecitur",
-            "missions" : ["Lorem ipsum dolor", "Lorem ipsum dolor"],
-            "outputs" :  ["Lorem ipsum dolor", "Lorem ipsum dolor"],
+            "title": "Project 1 : Application Web de gestion de collection",
+            "context": "Ce projet a pour but de développer une application Web simulant la capture de Pokemon. Elle permettra la gestion d'une collection de Pokemon par un dresseur unique.",
+            "missions" : ["Crée un écran d'accueil, rappelant le nom de l'utilisateur et affichant un message de bienvenue.", "Afficher le détail des caractéristiques d'un Pokemon particulier de la collection.", "Ajouter et retirer des Pokemon à la collection"],
+            "outputs" :  ["Figma", "Visuel Studio Code"],
             "skills": [
-                "3D",
+                "UI/UX",
                 "Dev Web"
             ],
             "link" : "https://youtube.com",
@@ -40,11 +40,11 @@
         {
             "title": "Project 2 : Lorem ipsum dolor sit amet consecitur",
             "context": "Lorem ipsum dolor sit amet consecitur",
-            "missions" : ["Lorem ipsum dolor", "Lorem ipsum dolor"],
+            "missions" : ["Crée un écran d'accueil, rappelant le nom de l'utilisateur et affichant un message de bienvenue.", "Afficher le détail des caractéristiques d'un Pokemon particulier de la collection.", "Ajouter et retirer des Pokemon à la collection"],
             "outputs" :  ["Lorem ipsum dolor", "Lorem ipsum dolor"],
             "skills": [
-                "Réseaux sociaux",
-                "UI/UX"
+                "Marketing",
+                "Comm"
             ],
             "link" : "https://youtube.com",
             "picture": "projet.jpg"
@@ -108,7 +108,7 @@
     ],
     "contacts": [
         {"name" : "Instagram", 
-        "url" : "https://instagram.com",
+        "url" : "https://www.instagram.com/_luuwzz_/",
         "icon" : "insta.svg"},
         {"name" : "LinkedIn", 
         "url" : "https://linkedin.com",
