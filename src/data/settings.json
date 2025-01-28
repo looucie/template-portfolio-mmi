@@ -38,16 +38,16 @@
             "picture": "site105.png"
         },
         {
-            "title": "Project 2 : Lorem ipsum dolor sit amet consecitur",
+            "title": "Project 2 : Création de l’affiche du Festival multimédia des BUT MMI de Lannion",
             "context": "Lorem ipsum dolor sit amet consecitur",
             "missions" : ["Crée un écran d'accueil, rappelant le nom de l'utilisateur et affichant un message de bienvenue.", "Afficher le détail des caractéristiques d'un Pokemon particulier de la collection.", "Ajouter et retirer des Pokemon à la collection"],
-            "outputs" :  ["Lorem ipsum dolor", "Lorem ipsum dolor"],
+            "outputs" :  ["Dossier d'agence", "Affiche"],
             "skills": [
                 "Marketing",
                 "Comm"
             ],
             "link" : "https://youtube.com",
-            "picture": "projet.jpg"
+            "picture": "affiche103.png"
         },
         {
             "title": "Project 3 : Lorem ipsum dolor sit amet consecitur",
